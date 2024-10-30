@@ -1,0 +1,62 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.csscompiler hr{
+    margin: 1rem 0
+}
+.csscompiler .alignright a{
+    display: flex;
+    align-items: center;
+}
+.csscompiler .alignright a .dashicons{
+    margin-left: .5rem;
+}
+.csscompiler .filenamecompiler{
+    margin-bottom: .5rem;
+}
+.csscompiler .filenamecompiler strong{
+    display: inline-block;
+    color: #ce1c78;
+    font-size: 1.1rem;
+}
+.csscompiler .text-center{
+    text-align: center;
+}
+.csscompiler table .button{
+    vertical-align: unset;
+    min-height: initial;
+    line-height: 1.5;
+    padding: 1px 5px;
+    margin: 3px 0;
+}
+ .compiler-table {
+    border: solid 1px #dadada;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+    background: #fff;
+    box-sizing: border-box;
+    margin-bottom: 2rem;
+}
+.compiler-table thead th, 
+.compiler-table thead td {
+    background-color: #2271b1;
+    border: solid 1px #2271b1;
+    color: #ffffff;
+    padding: 10px;
+    text-align: left;
+}
+.compiler-table tbody tr:hover {
+    background-color: #f0f0f0;
+}
+.compiler-table tbody tr td {
+    border: solid 1px #dadada;
+    color: #333;
+    padding: 3px 10px;
+}
+.compiler-table tbody tr td.admin-lift-compiler-text-danger {
+    color: #a94298;
+    font-weight: bold;
+}

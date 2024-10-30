@@ -1,0 +1,140 @@
+# Copyright (C) 2021 Nguyen Pham
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/best-css-compiler"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Project-Id-Version: Best CSS Compiler 1.0.0\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Best CSS Compiler
+#: admin/class-admin.php:265
+msgid "Best CSS Compiler"
+msgstr ""
+
+#. Best CSS Compiler is a CSS preprocessor, a superset of CSS that puts in features that aren’t functional in regular CSS. Best CSS Compiler puts in features to CSS and gets collected into legal CSS
+#: admin/class-admin.php:266
+msgid "Best CSS Compiler is a CSS preprocessor, a superset of CSS that puts in features that aren’t functional in regular CSS. Best CSS Compiler puts in features to CSS and gets collected into legal CSS"
+msgstr ""
+
+#. Author of the plugin
+msgid "Nguyen Pham"
+msgstr ""
+
+#: admin/class-admin.php:61 
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin.php:223 
+msgid "Compiler Settings"
+msgstr ""
+
+#: admin/class-admin.php:225 
+msgid "Output Settings"
+msgstr ""
+
+#: admin/class-admin.php:216 
+msgid "CSS Compiler"
+msgstr ""
+
+#: admin/class-admin.php:226 
+#: admin/class-admin.php:269
+msgid "Copyright"
+msgstr ""
+
+#: admin/class-admin.php:241 
+msgid "Insert CSS into head tag"
+msgstr ""
+
+#: admin/class-admin.php:246 
+msgid "Concat CSS"
+msgstr ""
+
+#: admin/class-admin.php:248 
+msgid "Concat CSS File name"
+msgstr ""
+
+#: admin/class-admin.php:251 
+#: admin/partials/home.php:35 
+msgid "Position"
+msgstr ""
+
+#: admin/class-admin.php:262 
+#: admin/class-admin.php:271 
+msgid "Section Description"
+msgstr ""
+
+#: admin/class-admin.php:274 
+msgid "Author"
+msgstr ""
+
+#: admin/partials/compiler.php:23 
+msgid "Filename"
+msgstr ""
+
+#: admin/partials/compiler.php:41 
+msgid "Press Ctrl + E or Cmd + E to display autocomplete"
+msgstr ""
+
+#: admin/partials/compiler.php:44 
+msgid "Something wrong at line"
+msgstr ""
+
+#: admin/partials/compiler.php:52 
+#: admin/partials/home.php:33 
+msgid "Name"
+msgstr ""
+
+#: admin/partials/compiler.php:56 
+#: admin/partials/home.php:37
+msgid "Type"
+msgstr ""
+
+#: admin/partials/compiler.php:63 
+msgid "Order"
+msgstr ""
+
+#: admin/partials/compiler.php:68 
+#: admin/partials/home.php:39
+#: admin/partials/home.php:56
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/compiler.php:68 
+msgid "Submit"
+msgstr ""
+
+#: admin/partials/home.php:18 
+msgid "SCSS/CSS Code"
+msgstr ""
+
+#: admin/partials/home.php:21 
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/home.php:34 
+msgid "Hash"
+msgstr ""
+
+#: admin/partials/home.php:38 
+#: admin/partials/home.php:54 
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/home.php:56 
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/partials/home.php:65 
+msgid "No data found."
+msgstr ""
+
+#: admin/partials/home.php:35 
+msgid "Output"
+msgstr ""
